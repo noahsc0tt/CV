@@ -1,5 +1,3 @@
-# Noah Scott
-
 [LinkedIn](https://www.linkedin.com/in/noah-scott-9b70b01ab/)
 <br>
 noahzscott@gmail.com
