@@ -4,22 +4,19 @@ noahzscott@gmail.com
 
 ## Education
 
-- **University College London** (2024-Present)
+**University College London** (2024-Present)
 
-    - BSc Computer Science \| First Year: 1$^{\text{st}}$ class
+- BSc Computer Science \| First Year: 1st class
 
-<br>
 
-- **Davenant Foundation School** (2022-2024)
-    - A-Levels: Mathematics (A\*), Computer Science (A\*), Psychology (A\*)
-    - AS-Levels: Critical Thinking (A)
+**Davenant Foundation School** (2022-2024)
+- A-Levels: Mathematics (A\*), Computer Science (A\*), Psychology (A\*)
+- AS-Levels: Critical Thinking (A)
 
-<br>
+**Chigwell School** (2017-2022)
 
-- **Chigwell School** (2017-2022)
-
-    - GCSE Grade 9: Mathematics, Computer Science, English Language, English Literature
-    - GCSE Grade 8: Physics, Chemistry, Geography, History
+- GCSE Grade 9: Mathematics, Computer Science, English Language, English Literature
+- GCSE Grade 8: Physics, Chemistry, Geography, History
 
 
 ## Work Experience
@@ -71,7 +68,7 @@ financial strategy consultancy included:
 
 - UKMT Senior Mathematical Challenge: Silver Award (2022)
 - Davenant Foundation School: Best A-Level Computer Science Student Award
-- Awarded Secondary school and 6${^\text{th}}$ form academic scholarships for an independent selective school
+- Awarded Secondary school and 6th form academic scholarships for an independent selective school
 - Finalist in the Rotary Youth Speaks Competition (2018)
 - School Prefect at Chigwell School
 - Bronze Duke of Edinburgh Award
