@@ -1,7 +1,10 @@
-[LinkedIn](https://www.linkedin.com/in/noah-scott-9b70b01ab/)
-<br>
-noahzscott@gmail.com
+<div class="links-bar">
+    <a href="https://github.com/noahsc0tt"><button class="bn632-hover bn18">GitHub</button></a>
+    <a href="https://www.linkedin.com/in/noah-scott-9b70b01ab/"><button class="bn632-hover bn18">LinkedIn</button></a>
+    <a href="mailto:noahzscott@gmail.com"><button class="bn632-hover bn18">Email</button></a>
+</div>
 
+---
 ## Education
 
 **University College London** (2024-Present)

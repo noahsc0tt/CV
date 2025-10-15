@@ -1,0 +1,53 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+a {
+  color: #1293FF; /* purple */
+}
+
+footer {
+  display: none !important;
+}
+
+.links-bar {
+  display: flex;
+  justify-content: center;  /* center the buttons */
+  gap: 8px;                  /* small gaps between buttons */
+  padding: 10px;
+  background: transparent;   /* no border or background */
+  max-width: 600px;          /* optional max width */
+  margin: 20px auto;         /* center bar horizontally */
+}
+
+.bn632-hover {
+  flex: 1;                    /* equal width buttons */
+  min-width: 120px;           /* ensure buttons aren’t too narrow */
+  height: 50px;
+  font-size: 16px;
+  font-weight: 600;
+  color: #fff;
+  cursor: pointer;
+  text-align: center;
+  line-height: 50px;          /* vertical centering */
+  border: 2px solid #2bb673;  /* button border */
+  border-radius: 8px;          /* slightly rounded corners */
+  background: linear-gradient(
+    to right,
+    #25aae1,
+    #40e495,
+    #30dd8a,
+    #2bb673
+  );
+  background-size: 300% 100%;
+  transition: all .4s ease-in-out;
+}
+
+.bn632-hover:hover {
+  background-position: 100% 0; /* gradient flows on hover */
+}
+
+.bn632-hover:focus {
+  outline: none;
+}
