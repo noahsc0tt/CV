@@ -5,32 +5,25 @@
 </div>
 
 ---
-## Education
+## Experience
 
-**University College London** (2024-Present)
+**University College London**: **Programming Tutor** (Academic Year 2025/6)
+- Tutoring a seminar of first-year UCL Computer Science students, covering:
+    - [**Principles of Programming**, COMP0002 ](https://www.ucl.ac.uk/module-catalogue/modules/principles-of-programming-COMP0002) (**C**, **Haskell**)
+    - [**Object-Oriented Programming**, COMP0004 ](https://www.ucl.ac.uk/module-catalogue/modules/object-oriented-programming-COMP0004) (**Java**)
+    - [**Algorithms**, COMP0005 ](https://www.ucl.ac.uk/module-catalogue/modules/algorithms-COMP0005) (**Python**)
+    - [**Design and Professional Skills**, ENGF0034](https://www.ucl.ac.uk/module-catalogue/modules/design-and-professional-skills-i-computer-science-ENGF0034) (**Python**)
 
-- BSc Computer Science \| First Year: 1st class
 
-
-**Davenant Foundation School** (2022-2024)
-- A-Levels: Mathematics (A\*), Computer Science (A\*), Psychology (A\*)
-- AS-Levels: Critical Thinking (A)
-
-**Chigwell School** (2017-2022)
-
-- GCSE Grade 9: Mathematics, Computer Science, English Language, English Literature
-- GCSE Grade 8: Physics, Chemistry, Geography, History
 
 <br>
-
-## Work Experience
 
 **Bezalabs:** **Part-time Researcher** (2023-2025). Projects for this
 financial strategy consultancy included:
 
 - **Designing Insurance Subsidies in the Pacific**
     - Client: **Asian Development Bank**, September 2025
-    - Performed data collection and statistical analysis, authored report sections on socio-economic indicators and allocation methodologies, copy-edited final report
+    - Performed data collection and statistical analysis, authored report sections on socioeconomic indicators and allocation methodologies, copy-edited final report
     - Created a graphing program (using NumPy, Matplotlib) to calculate statistics for socioeconomic indicators
 <br>
 <br>
@@ -49,6 +42,8 @@ financial strategy consultancy included:
     - Client: **Food and Agriculture Organisation of the United Nations**, July - August 2023
     - Internet research, copyediting and proofreading of the final report.
 
+<br>
+
 **Independent tutoring**: AQA & OCR GCSE Computer Science (October
 2024 -- June 2025)
 
@@ -58,25 +53,56 @@ financial strategy consultancy included:
 
 <br>
 
+## Education
+
+**University College London** (2024-Present)
+
+- BSc Computer Science \| First Year: 1st class
+
+
+**Davenant Foundation School** (2022-2024)
+- A-Levels: Mathematics (A\*), Computer Science (A\*), Psychology (A\*)
+- AS-Levels: Critical Thinking (A)
+
+**Chigwell School** (2017-2022)
+
+- GCSE Grade 9: Mathematics, Computer Science, English Language, English Literature
+- GCSE Grade 8: Physics, Chemistry, Geography, History
+
+<br>
+
 ## Skills
 
-Programming: **C#** (e.g. educational Rubik's cube solver application)
-- **Java** (e.g. note-taking web-application)
-- **JavaScript**/**TypeScript** with the **React** framework (e.g. web-based sudoku solver)
+Programming: 
+- **C#** (e.g. [interactive Rubik's cube solver application](https://github.com/noahsc0tt/interactive-rubiks-solver))
+- **Java** (e.g. [note-taking web-application](https://github.com/noahsc0tt/notes-webapp))
+- **JavaScript**/**TypeScript** with the **React** framework (e.g. [web-based sudoku solver](https://github.com/noahsc0tt/sudoku-solver))
 - **Python, NumPy, MatPlotLib** (e.g. modelling program for bond payout distribution in Tajikistan)
+- **Ruby** (e.g. [CLI Rubik's cube timer](https://github.com/noahsc0tt/rubiks-cli))
+- **Lua** (I use Neovim btw)
 - **C**
 - **Haskell**
 - **Git**, **[GitHub](https://github.com/noahsc0tt)**
 - **SQL**, **HTML**, **CSS**
 - **ThingsBoard** Online
 
-Proficient in **Microsoft Office** and **Google Workspace**
-<br>
-<br>
 Video editing: **Adobe Premiere Pro** \| Podcast production: **OBS**
+<br>
+<br>
+Audiovisual engineering: **SoundCraft UI** \| **Blackmagic ATEM**
+<br>
+<br>
+Proficient in **Microsoft Office** and **Google Workspace**
 
 <br>
 
+## Interests
+
+- **Rubik's cubes**: Competed nationally, reaching UK Championship semi-finals. Personal best solve time of 8.83 seconds.
+- **Chess**: Top 2% of chess.com players worldwide (24 million registered players)
+- **Volunteering**: Audiovisual engineering at a London church
+
+<br>
 ## Achievements
 
 - UKMT Senior Mathematical Challenge: Silver Award (2022)
@@ -85,11 +111,3 @@ Video editing: **Adobe Premiere Pro** \| Podcast production: **OBS**
 - Finalist in the Rotary Youth Speaks Competition (2018)
 - School Prefect at Chigwell School
 - Bronze Duke of Edinburgh Award
-
-<br>
-
-## Interests
-
-- Rubik's cubes: Competed nationally, reaching UK Championship semi-finals. Personal best solve time of 8.83 seconds.
-- Chess: Top 2% of chess.com players worldwide (24 million registered players)
-- Volunteering: Audiovisual engineering at a London church
