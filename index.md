@@ -11,10 +11,8 @@
 - Tutoring a seminar of first-year UCL Computer Science students, covering:
     - [**Principles of Programming**, COMP0002 ](https://www.ucl.ac.uk/module-catalogue/modules/principles-of-programming-COMP0002) (**C**, **Haskell**)
     - [**Object-Oriented Programming**, COMP0004 ](https://www.ucl.ac.uk/module-catalogue/modules/object-oriented-programming-COMP0004) (**Java**)
-    - [**Algorithms**, COMP0005 ](https://www.ucl.ac.uk/module-catalogue/modules/algorithms-COMP0005) (**Python**)
+    - [**Algorithms**, COMP0005 ](https://www.ucl.ac.uk/module-catalogue/modules/algorithms-COMP0005) 
     - [**Design and Professional Skills**, ENGF0034](https://www.ucl.ac.uk/module-catalogue/modules/design-and-professional-skills-i-computer-science-ENGF0034) (**Python**)
-
-
 
 <br>
 
@@ -89,16 +87,13 @@ Programming:
 Video editing: **Adobe Premiere Pro** \| Podcast production: **OBS**
 <br>
 <br>
-Audiovisual engineering: **SoundCraft UI** \| **Blackmagic ATEM**
-<br>
-<br>
-Proficient in **Microsoft Office** and **Google Workspace**
+Audiovisual engineering: **SoundCraft** \| **Blackmagic**
 
 <br>
 
 ## Interests
 
-- **Rubik's cubes**: Competed nationally, reaching UK Championship semi-finals. Personal best solve time of 8.83 seconds.
+- **Rubik's cubes**: Have competed nationally, reaching UK Championship semi-finals. Personal best solve time of 8.83 seconds.
 - **Chess**: Top 2% of chess.com players worldwide (24 million registered players)
 - **Volunteering**: Audiovisual engineering at a London church
 
@@ -107,7 +102,6 @@ Proficient in **Microsoft Office** and **Google Workspace**
 
 - UKMT Senior Mathematical Challenge: Silver Award (2022)
 - Davenant Foundation School: Best A-Level Computer Science Student Award
-- Awarded Secondary school and 6th form academic scholarships for an independent selective school
 - Finalist in the Rotary Youth Speaks Competition (2018)
 - School Prefect at Chigwell School
 - Bronze Duke of Edinburgh Award
