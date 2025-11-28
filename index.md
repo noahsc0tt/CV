@@ -74,14 +74,15 @@ financial strategy consultancy included:
 Programming: 
 - **C#** (e.g. [interactive Rubik's cube solver application](https://github.com/noahsc0tt/interactive-rubiks-solver))
 - **Java** (e.g. [note-taking web-application](https://github.com/noahsc0tt/notes-webapp))
-- **JavaScript**/**TypeScript** with the **React** framework (e.g. [web-based sudoku solver](https://github.com/noahsc0tt/sudoku-solver))
+- **JavaScript**/**TypeScript** with the **React** framework (e.g. [sudoku solver](https://github.com/noahsc0tt/sudoku-solver))
 - **Python, NumPy, MatPlotLib** (e.g. modelling program for bond payout distribution in Tajikistan)
 - **Ruby** (e.g. [CLI Rubik's cube timer](https://github.com/noahsc0tt/rubiks-cli))
+- **Bash** (e.g. [lastpass-cli fuzzy-finder](https://github.com/noahsc0tt/fuzzpass))
 - **Lua** (I use Neovim btw)
 - **C**
 - **Haskell**
 - **Git**, **[GitHub](https://github.com/noahsc0tt)**
-- **SQL**, **HTML**, **CSS**
+- **SQL**
 - **ThingsBoard** Online
 
 Video editing: **Adobe Premiere Pro** \| Podcast production: **OBS**
@@ -93,7 +94,7 @@ Audiovisual engineering: **SoundCraft** \| **Blackmagic**
 
 ## Interests
 
-- **Rubik's cubes**: Have competed nationally, reaching UK Championship semi-finals. Personal best solve time of 8.83 seconds.
+- **Rubik's cubes**: Competed nationally, reaching UK Championship semi-finals. Personal best solve time of 8.83 seconds.
 - **Chess**: Top 2% of chess.com players worldwide (24 million registered players)
 - **Volunteering**: Audiovisual engineering at a London church
 
