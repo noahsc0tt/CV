@@ -75,7 +75,7 @@ Programming:
 - **C#** (e.g. [interactive Rubik's cube solver application](https://github.com/noahsc0tt/interactive-rubiks-solver))
 - **Java** (e.g. [note-taking web-application](https://github.com/noahsc0tt/notes-webapp))
 - **JavaScript**/**TypeScript** with the **React** framework (e.g. [sudoku solver](https://github.com/noahsc0tt/sudoku-solver))
-- **Python, NumPy, MatPlotLib** (e.g. modelling program for bond payout distribution in Tajikistan)
+- **Python, NumPy, MatPlotLib** (e.g. [bible TUI](https://github.com/noahsc0tt/bible)
 - **Ruby** (e.g. [CLI Rubik's cube timer](https://github.com/noahsc0tt/rubiks-cli))
 - **Bash** (e.g. [lastpass-cli fuzzy-finder](https://github.com/noahsc0tt/fuzzpass))
 - **Lua** (I use Neovim btw)
